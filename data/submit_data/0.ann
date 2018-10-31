@@ -1,0 +1,16 @@
+T1    Disease 4 9    2型糖尿病
+T2    Test 9 14    HBA1C
+T3    Disease 30 35    2型糖尿病
+T4    Test 61 63    血糖
+T5    Disease 66 69    糖尿病
+T6    Test 89 94    HBA1C
+T7    Test 100 94    血
+T8    Disease 139 142    糖尿病
+T9    Disease 223 226    糖尿病
+T10    Test 242 244    血糖
+T11    Disease 249 257    糖尿病微血管病变
+T12    Test 310 312    血糖
+T13    Test 333 338    HBA1C
+T14    Test_Value 344 348    7.5%
+T15    Symptom 353 356    年龄较
+T16    Level 359 366    糖尿病病程较长
